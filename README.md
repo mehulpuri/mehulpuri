@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python, Web Dev and basics of Machine Learning
 - 💞️ I’m looking to collaborate on Web Dev Projects
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 # Top Lanuages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulpuri&theme=radical&layout=compact)](https://github.com/mehulpuri/github-readme-stats)
