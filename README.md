@@ -1,5 +1,5 @@
 # 💫About Me :
-- 👋 Hi, I’m @mehulpuri
+- 👋 Hi, I’m Mehul
 - 👀 I’m interested in Web Development, Artificial Intelligence, Machine Learning and Games 
 - 🌱 I’m currently learning Python, Web Dev and basics of Machine Learning
 - 💞️ I’m looking to collaborate on Web Dev Projects
