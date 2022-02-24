@@ -38,5 +38,10 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
