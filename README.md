@@ -7,6 +7,13 @@
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehulpuri) 
 
+<h2 align="center">Stats: </h2>
+<p align="center"> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=mehulpuri&bg_color=0d1017&color=00ff00&point=11b819&area=false&line=00ff00&hide_border=true" alt="Contribution graph" />
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=mehulpuri&show_icons=true&theme=dark" alt="Stats" />
+  <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulpuri&theme=dark" alt="Stats" />
+</p>
+
 # 💻Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
