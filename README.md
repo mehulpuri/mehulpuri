@@ -56,6 +56,9 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zigsauj1ryel6iixbnber2kcp&cover_image=true&theme=default" /></div>
+<br />
+
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
