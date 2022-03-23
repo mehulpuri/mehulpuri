@@ -1,8 +1,24 @@
-# 💫About Me :
-- 👋 Hi, I’m Mehul
-- 👀 I’m interested in Web Development, Artificial Intelligence, Machine Learning and Games 
-- 🌱 I’m currently learning Python, Web Dev and basics of Machine Learning
-- 💞️ I’m looking to collaborate on Web Dev Projects
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Mehul Puri, a CSE undergrad student👨‍💻learning new technologies and skills everyday  🚀</div>  
+  
+
+- 👀 I’m interested in Web Development, Artificial Intelligence, Machine Learning and Games  
+  
+
+- 🌱 I’m currently learning Python, Web Dev and basics of Machine Learning  
+  
+
+- 💞️ I’m looking to collaborate on Web Dev Projects  
+  
+
+- ⚡ Fun fact: I play alot of CQB games  
+  
+
+<br/>  
 
 ## Profile Views
 [![](https://visitcount.itsvg.in/api?id=mehulpuri&icon=5&color=3)](https://visitcount.itsvg.in)
