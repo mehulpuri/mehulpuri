@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mehul Puri, a CSE undergrad student👨‍💻learning new technologies and skills everyday  🚀</div>  
+### <div align="left">I'm Mehul Puri, a CSE undergrad student👨‍💻learning new technologies and skills everyday  🚀</div>  
   
 
 - 👀 I’m interested in Web Development, Artificial Intelligence, Machine Learning and Games  
