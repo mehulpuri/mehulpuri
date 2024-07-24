@@ -13,9 +13,7 @@
   
 
 - 💞️ I’m looking to collaborate on Web Dev Projects  
-  
-
-- ⚡ Fun fact: I play alot of CQB games  
+ 
   
 
 <br/>  
